@@ -1,0 +1,10 @@
+public class Test{
+
+   public static void main(string[] args){
+           system.out.println("*********************");
+           system.out.println("Hello from GITHub");
+           system.out.println("*********************");
+
+    }
+}
+
