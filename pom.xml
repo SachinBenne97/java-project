@@ -1,0 +1,8 @@
+ABC.war:main.o big3.o fact.o
+	gcc -o ABC.war main.o big3.o fact.o
+main.o:main.java
+	gcc -java main.java
+big3.o:big3.java
+	gcc -java big3.java
+fact.o:fact.java
+	gcc -java fact.java
